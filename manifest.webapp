@@ -1,0 +1,20 @@
+{
+  "version": "1.09",
+  "name": "Rubby Bird",
+  "launch_path": "/index.html",
+  "description": "Rubby Bird",
+  "icons": {
+    "128": "/128.png"
+  },
+  "developer": {
+    "name": "Gameblabla",
+    "url": "https://gameblabla.oylmpe.in/"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "orientation": [ "portrait" ],
+  "default_locale": "en",
+  "fullscreen": "true",
+  "permissions": {}
+}
